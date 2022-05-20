@@ -1,0 +1,14 @@
+C:\Users\arthur.nogueira\Desktop\workspace\CourseList\CourseList\bin\Debug\netcoreapp3.1\CourseList.exe
+C:\Users\arthur.nogueira\Desktop\workspace\CourseList\CourseList\bin\Debug\netcoreapp3.1\CourseList.deps.json
+C:\Users\arthur.nogueira\Desktop\workspace\CourseList\CourseList\bin\Debug\netcoreapp3.1\CourseList.runtimeconfig.json
+C:\Users\arthur.nogueira\Desktop\workspace\CourseList\CourseList\bin\Debug\netcoreapp3.1\CourseList.runtimeconfig.dev.json
+C:\Users\arthur.nogueira\Desktop\workspace\CourseList\CourseList\bin\Debug\netcoreapp3.1\CourseList.dll
+C:\Users\arthur.nogueira\Desktop\workspace\CourseList\CourseList\bin\Debug\netcoreapp3.1\CourseList.pdb
+C:\Users\arthur.nogueira\Desktop\workspace\CourseList\CourseList\obj\Debug\netcoreapp3.1\CourseList.csproj.AssemblyReference.cache
+C:\Users\arthur.nogueira\Desktop\workspace\CourseList\CourseList\obj\Debug\netcoreapp3.1\CourseList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthur.nogueira\Desktop\workspace\CourseList\CourseList\obj\Debug\netcoreapp3.1\CourseList.AssemblyInfoInputs.cache
+C:\Users\arthur.nogueira\Desktop\workspace\CourseList\CourseList\obj\Debug\netcoreapp3.1\CourseList.AssemblyInfo.cs
+C:\Users\arthur.nogueira\Desktop\workspace\CourseList\CourseList\obj\Debug\netcoreapp3.1\CourseList.csproj.CoreCompileInputs.cache
+C:\Users\arthur.nogueira\Desktop\workspace\CourseList\CourseList\obj\Debug\netcoreapp3.1\CourseList.dll
+C:\Users\arthur.nogueira\Desktop\workspace\CourseList\CourseList\obj\Debug\netcoreapp3.1\CourseList.pdb
+C:\Users\arthur.nogueira\Desktop\workspace\CourseList\CourseList\obj\Debug\netcoreapp3.1\CourseList.genruntimeconfig.cache
